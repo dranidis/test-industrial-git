@@ -1,3 +1,3 @@
-Some CSS commads.
+Some CSS commads. Editing this line
 
-More CSS here
+More CSS here - CONFLICT
