@@ -1,4 +1,6 @@
+Some CSS commads. Editing this line
+
 Some CSS commads.
  Some more changes
 
-More CSS here
+More CSS here - CONFLICT
